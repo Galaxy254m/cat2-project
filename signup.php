@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 ?> 
 [200~<link rel="stylesheet" href="style.css">
 <div class="card">
-  <h2>Sign Up</h2>
+  <h2>Create Your Account</h2>
   <form method="POST">
     <input name="username" placeholder="Username" required>
     <input name="fullname" placeholder="Full name" required>
